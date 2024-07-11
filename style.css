@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    position: absolute;
+    top: 30%;
+    left: 100px;
+}
+h1{
+    font-size: 80px;
+}
+h4{
+    font-size: 30px;
+}
+button{
+    font-size: 20px;
+    background-color: aliceblue;
+    border-radius: 100px;
+    border: 0;
+    height: 50px;
+    width: 150px;
+}
+/* button:hover{
+    box-shadow: 3px 3px 80px black;
+} */
+.about{
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 70px;
+}
+.about h2{
+    font-size: 30px;
+}
+.about p{
+ font-size: medium;
+}
+.border{
+    background-color: #fac769;
+
+}
+ .border h2{
+    text-align: center;
+    padding: 40px;
+    color: aliceblue;
+    font-size: 40px;
+    
+}
+.about a{
+    text-decoration: none;
+}
+#gallery{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.card{
+    margin: 20px;
+}
+.card-body{
+    background-color:#fac769;
+}
+.btn1{
+    position: absolute;
+    top: 10px;
+    background-color:#fac769;
+    border-radius: 100px;
+    border: 0;
+    height: 50px;
+    width: 150px;
+}
+.picture{
+    display: flex;
+    justify-content: center;
+
+}
+.img-1{
+    margin: 20px;
+}
+
+    
+
+.h3{margin-left: 250px;
+
+    padding: 30px;
+
+}
+.border2{
+    background-color: #fac769;
+    margin-top: 30px;
+}
+.border2 h3{
+  
+    margin-left: 290px;
+    color:#fff;
+    margin-top: -70px;
+    font-size: 50px;
+    padding: 40px;
+}
+.border2 p{
+    margin-left: 320px;
+    color: #fff;
+    padding: 20px;
+    
+}
+.middle{
+    margin-left: 1250px;
+    margin-top: -100px;
+   
+}
+.head2{
+    margin-left: 300px;
+    padding: 90px;
+}
+#number{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    margin-top: -150px;
+}
+.num{
+  padding: 80px;
+}
+.num p{
+    font-size: 50px;
+    font-weight: bold;
+    color: #fac769;
+}
+.num h4{
+    position: absolute;
+    top: 2645px;
+    font-size: 15px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: #fac769;
+}
+.light h5{
+    text-align: center;
+    color: grey;
+}
+.dark h2{
+    text-align: center;
+}
+.picture {
+    opacity: 1;
+    }
+    .picture img:hover{
+    opacity: 0.3;
+    transition: opacity 0.3s ease;
+    
+    }
+    
